@@ -1,12 +1,12 @@
-**完整代码收费  加qq  931708230 或者加微信  ynwwxid**
+### 作者QQ：1556708905(支持修改、 部署调试、 支持代做毕设)
 
-**接毕业设计和论文**
+#### 支持代做任何毕设论、接网站建设、小程序、H5、APP、各种系统等
+
+**毕业设计所有选题地址 [https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 **[博客地址](https://blog.csdn.net/2303_76227485/article/details/128647426)**
 
 **视频演示：[视频演示地址](https://www.bilibili.com/video/BV1CP4y1i7RX/)**
-
-**毕业设计所有选题地址：[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
 ## 基于springboot房屋租赁管理系统 (源代码+数据库+15000字文档)
 
@@ -125,7 +125,4 @@ http://localhost:9999/
 3. 修改application.yml 里面的数据库配置配置
 4. 启动项目后端项目 
 5. 访问  http://localhost:9999/
-
-**需要完整代码可以加qq   931708230 或者加微信   ynwwxid**
-
-**需要完整代码可以加qq   931708230 或者加微信   ynwwxid**
+ 
